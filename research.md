@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-## My Research Interests 
+## Research Interests 
 My research interests are Mathematical Logic and its connections with Combinatorics and Ramsey Theory. In particular, the 
 
   * [Partition regularity](https://en.wikipedia.org/wiki/Partition_regularity) of polynomial equations.
