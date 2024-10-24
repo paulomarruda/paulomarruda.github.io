@@ -19,6 +19,10 @@ To make sure you get the most out of each tutoring session, here's how my proces
 
   4. **Follow-up and Support**: After each session, if you have further questions or need clarification, feel free to reach out! I’m here to support you in your learning journey.
 
+### Contact
+
+You can reach me by email (see my [contact page](/contact/)) or you can fill this [form](https://forms.gle/D5QHT4To5NGc2Jyo6) and I will enter in contact with you.
+
 ### Who am I
 Backed by 11 years of teaching, tutoring, and educational research, I am passionate about helping students and professionals achieve their academic and professional goals. I first began tutoring during my undergraduate studies, providing lessons in math and programming to high school and university students. My early teaching experience included tutoring in basic programming and Linux, as well as teaching university-level exercise classes in subjects like calculus, linear algebra, real analysis, logic, and topology.
 
