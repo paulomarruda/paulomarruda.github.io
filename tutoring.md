@@ -6,6 +6,10 @@ permalink: /tutoring/
 
 Welcome to my tutoring page. Here you'll find information about my tutoring classes on both mathematics and programming.
 
+### Contact
+
+You can reach me by email (see my [contact page](/contact/)) or you can fill this [form](https://forms.gle/D5QHT4To5NGc2Jyo6) and I will enter in contact with you.
+
 ### How it works
 To make sure you get the most out of each tutoring session, here's how my process works:
 
@@ -18,10 +22,6 @@ To make sure you get the most out of each tutoring session, here's how my proces
   3. **Tutoring Sessions**: During our session, we’ll work through the material step by step. I’ll explain concepts, answer your questions, and provide guidance on how to approach problems. Whether it’s foundational learning or advanced topics, my goal is to make the material clear and approachable.
 
   4. **Follow-up and Support**: After each session, if you have further questions or need clarification, feel free to reach out! I’m here to support you in your learning journey.
-
-### Contact
-
-You can reach me by email (see my [contact page](/contact/)) or you can fill this [form](https://forms.gle/D5QHT4To5NGc2Jyo6) and I will enter in contact with you.
 
 ### Who am I
 Backed by 10 years of teaching, tutoring, and scientific research, I am passionate about helping students and professionals achieve their academic and professional goals. I first began tutoring during my undergraduate studies, providing lessons in math and programming to high school and university students. My early teaching experience included tutoring in basic programming and Linux, as well as teaching university-level exercise classes in subjects like calculus, linear algebra, real analysis, logic, and topology.
