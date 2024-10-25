@@ -15,7 +15,7 @@ To make sure you get the most out of each tutoring session, here's how my proces
 
   1. **Send Materials in Advance**: Before each session, please send any relevant materials (exercise sheets, homework assignments, bibliographies, or topics you'd like to cover). This helps me prepare a tailored lesson plan, ensuring we make the best use of our time together. To get the most effective results, I ask that you send these materials at least 48 hours in advance. (Please note: *Sending materials the day before an exam may not allow enough time for thorough preparation!*)
 
-  2. **Programming Lessons**: If you're want to learn how to code, I can tailor our sessions to your real-world needs. Please send me examples of the challenges or projects you encounter in your daily student/work life. This allows me to create sessions focused on practical, relevant solutions that you can immediately apply in your career.
+  2. **Programming Lessons**: If you want to learn how to code, I can tailor our sessions to your real-world needs. Please send me examples of the challenges or projects you encounter in your daily student/work life. This allows me to create sessions focused on practical, relevant solutions that you can immediately apply in your career and goals.
 
   2. **Customized Lesson Plan**: Once I receive your materials, I’ll review them and prepare a structured plan for our session. This ensures that we focus on the areas where you need the most support, whether it’s clarifying difficult concepts, solving exercises, or preparing for an upcoming test.
 
