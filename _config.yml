@@ -33,6 +33,7 @@ header_pages:
   - contact.md
   - tutoring.md
   - research.md
+  - projects.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
